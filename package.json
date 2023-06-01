@@ -1,0 +1,23 @@
+{
+  "name": "learning-kafka",
+  "version": "1.0.0",
+  "description": "Just me learning about Kafka and playing around a bit",
+  "main": "kafka-consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodebotanist/learning-kafka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodebotanist/learning-kafka/issues"
+  },
+  "homepage": "https://github.com/nodebotanist/learning-kafka#readme",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
